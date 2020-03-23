@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <age>25</age>
+    <employeeName>John</employeeName>
+    <position>Software Engineer</position>
+    <salary>80000</salary>
+</employee>
